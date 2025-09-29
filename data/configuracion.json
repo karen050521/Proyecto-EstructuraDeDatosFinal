@@ -1,0 +1,49 @@
+{
+    "configuracion": {
+        "distancia_total": 4000,
+        "velocidad_carrito": 8,
+        "refresco_ms": 200,
+        "altura_salto": 50,
+        "color_carrito_inicial": "azul",
+        "energia_inicial": 100
+    },
+    "daño_obstaculos": {
+        "roca": 20,
+        "cono": 10,
+        "hueco": 15,
+        "aceite": 5,
+        "barrera": 25
+    },
+    "obstaculos": [
+        { "x": 300, "y": 0, "tipo": "roca" },
+        { "x": 400, "y": 3, "tipo": "cono" },
+        { "x": 600, "y": 1, "tipo": "cono" },
+        { "x": 700, "y": 4, "tipo": "barrera" },
+        { "x": 900, "y": 2, "tipo": "hueco" },
+        { "x": 1000, "y": 5, "tipo": "aceite" },
+        { "x": 1200, "y": 0, "tipo": "aceite" },
+        { "x": 1300, "y": 3, "tipo": "roca" },
+        { "x": 1500, "y": 1, "tipo": "barrera" },
+        { "x": 1600, "y": 4, "tipo": "cono" },
+        { "x": 1800, "y": 2, "tipo": "roca" },
+        { "x": 1900, "y": 5, "tipo": "hueco" },
+        { "x": 2200, "y": 0, "tipo": "cono" },
+        { "x": 2300, "y": 3, "tipo": "aceite" },
+        { "x": 2500, "y": 1, "tipo": "hueco" },
+        { "x": 2600, "y": 4, "tipo": "barrera" },
+        { "x": 2800, "y": 2, "tipo": "aceite" },
+        { "x": 2900, "y": 5, "tipo": "roca" },
+        { "x": 3100, "y": 0, "tipo": "barrera" },
+        { "x": 3200, "y": 3, "tipo": "cono" },
+        { "x": 3400, "y": 1, "tipo": "roca" },
+        { "x": 3500, "y": 4, "tipo": "aceite" },
+        { "x": 3700, "y": 2, "tipo": "cono" },
+        { "x": 3800, "y": 5, "tipo": "barrera" },
+        { "x": 4000, "y": 0, "tipo": "hueco" },
+        { "x": 4100, "y": 3, "tipo": "roca" },
+        { "x": 4300, "y": 1, "tipo": "aceite" },
+        { "x": 4400, "y": 4, "tipo": "cono" },
+        { "x": 4600, "y": 2, "tipo": "barrera" },
+        { "x": 4700, "y": 5, "tipo": "hueco" }
+    ]
+}
