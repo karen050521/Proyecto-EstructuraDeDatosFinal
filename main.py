@@ -7,7 +7,7 @@ Configurado para ejecutarse con pygame-zero.
 
 import pygame
 from pgzero.constants import keys
-from data.gestor_juego import GestorJuego, EstadoJuego
+from logic.gestor_juego import GestorJuego, EstadoJuego
 from view.pantalla_configuracion import PantallaConfiguracion
 from view.pantalla_juego import PantallaJuego
 

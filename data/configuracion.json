@@ -1,6 +1,6 @@
 {
     "configuracion": {
-        "distancia_total": 4000,
+        "distancia_total": 5000,
         "velocidad_carrito": 8,
         "refresco_ms": 200,
         "altura_salto": 50,
